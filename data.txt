@@ -1,3 +1,3 @@
-Name: IronhackerMarta
+Name: Web developer MartaB
 Age: 31
-Favorite Color: Black
+Favorite Color: Pink
